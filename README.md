@@ -36,6 +36,8 @@ Tekniske disipliner
 ## [Fredag 18.9](notater/2015-09-18.md) 
 SOLID prinsippene
 
+## Fredag 27.11
+Frist innlevering software og rapport
 
 ----
 
